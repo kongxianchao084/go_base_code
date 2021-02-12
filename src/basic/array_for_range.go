@@ -24,7 +24,7 @@ func main() {
 		fmt.Println(arr1[i])
 	}
 
-	// for。。。range
+	// for。。。range。。。
 	for i, v := range arr1 {
 		fmt.Printf("下标是：%d，数值是：%d\n", i, v)
 	}
